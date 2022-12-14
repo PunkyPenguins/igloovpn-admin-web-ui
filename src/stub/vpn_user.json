@@ -1,0 +1,100 @@
+[
+    {
+        "hash": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "password": "ZG9pbmcgdGVzdHMgaXMgaGVhbHRoeQ==",
+        "ios_config_url": "https://domain.tld/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3.sswan",
+        "pkcs12_url": "https://domain.tld/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3.p12"
+    },
+    {
+        "hash": "1c3d58590b86f6eefd308feb14b66c02b2d862f0",
+        "password": "ZG9pbmcgdGVzdHMgbWFrZXMgeW91IGEgYmV0dGVyIHBlcnNvbg==",
+        "ios_config_url": "https://domain.tld/1c3d58590b86f6eefd308feb14b66c02b2d862f0.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/1c3d58590b86f6eefd308feb14b66c02b2d862f0.sswan",
+        "pkcs12_url": "https://domain.tld/1c3d58590b86f6eefd308feb14b66c02b2d862f0.p12"
+    },
+    {
+        "hash": "932058e2eff0293feed39489b3192735a2368121",
+        "password": "ZG9pbmcgdGVzdHMgbWFrZXMgamVzdXMgaGFwcHk=",
+        "ios_config_url": "https://domain.tld/932058e2eff0293feed39489b3192735a2368121.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/932058e2eff0293feed39489b3192735a2368121.sswan",
+        "pkcs12_url": "https://domain.tld/932058e2eff0293feed39489b3192735a2368121.p12"
+    },
+    {
+        "hash": "d4e7966e7a31a06248d182bdd3b6e69881ab58b7",
+        "password": "aHR0cHM6Ly9neXNoaWRvLmNvbS8=",
+        "ios_config_url": "https://domain.tld/d4e7966e7a31a06248d182bdd3b6e69881ab58b7.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/d4e7966e7a31a06248d182bdd3b6e69881ab58b7.sswan",
+        "pkcs12_url": "https://domain.tld/d4e7966e7a31a06248d182bdd3b6e69881ab58b7.p12"
+    },
+    {
+        "hash": "1248f750d510321d55c75845a6edb5168eb09d8b",
+        "password": "cHJhaXNlIHRoZSBob2x5IHBlbmd1aW4=",
+        "ios_config_url": "https://domain.tld/1248f750d510321d55c75845a6edb5168eb09d8b.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/1248f750d510321d55c75845a6edb5168eb09d8b.sswan",
+        "pkcs12_url": "https://domain.tld/1248f750d510321d55c75845a6edb5168eb09d8b.p12"
+    },
+    {
+        "hash": "bf7f3680835ba7a14fe99f4d3a92f839133f65a2",
+        "password": "d3JpdGUgMyB0ZXN0cyBldmVyeSBkYXk=",
+        "ios_config_url": "https://domain.tld/bf7f3680835ba7a14fe99f4d3a92f839133f65a2.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/bf7f3680835ba7a14fe99f4d3a92f839133f65a2.sswan",
+        "pkcs12_url": "https://domain.tld/bf7f3680835ba7a14fe99f4d3a92f839133f65a2.p12"
+    },
+    {
+        "hash": "9a4bbe86e27fd01d5cb5038c34c57e1778150b02",
+        "password": "cGVuZ3VpbnMgPiBhbGw=",
+        "ios_config_url": "https://domain.tld/9a4bbe86e27fd01d5cb5038c34c57e1778150b02.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/9a4bbe86e27fd01d5cb5038c34c57e1778150b02.sswan",
+        "pkcs12_url": "https://domain.tld/9a4bbe86e27fd01d5cb5038c34c57e1778150b02.p12"
+    },
+    {
+        "hash": "a4adb011dce4d1c8a465d1fc2f49dd0428848eef",
+        "password": "YWxsIHNlYWxzIGFyZSBiYXN0YXJk",
+        "ios_config_url": "https://domain.tld/a4adb011dce4d1c8a465d1fc2f49dd0428848eef.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/a4adb011dce4d1c8a465d1fc2f49dd0428848eef.sswan",
+        "pkcs12_url": "https://domain.tld/a4adb011dce4d1c8a465d1fc2f49dd0428848eef.p12"
+    },
+    {
+        "hash": "ff309de5a9fe28189fe2e214976881e42b72dbb9",
+        "password": "c2xpZGUgb24geW91ciBiZWxseSBhbmQgeW91IHdpbGwgYmUgaGFwcHk=",
+        "ios_config_url": "https://domain.tld/ff309de5a9fe28189fe2e214976881e42b72dbb9.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/ff309de5a9fe28189fe2e214976881e42b72dbb9.sswan",
+        "pkcs12_url": "https://domain.tld/ff309de5a9fe28189fe2e214976881e42b72dbb9.p12"
+    },
+    {
+        "hash": "c236430e58bd2611730aee761de4c3426d2f21dd",
+        "password": "eW91J3JlIG5vdCBkb25lIGhlYXJpbmcgYWJvdXQgcGVuZ3VpbnM=",
+        "ios_config_url": "https://domain.tld/c236430e58bd2611730aee761de4c3426d2f21dd.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/c236430e58bd2611730aee761de4c3426d2f21dd.sswan",
+        "pkcs12_url": "https://domain.tld/c236430e58bd2611730aee761de4c3426d2f21dd.p12"
+    },
+    {
+        "hash": "68f1105c1d968a74588c6314bbafdb9d3c12517a",
+        "password": "YmVhayBpdA==",
+        "ios_config_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.sswan",
+        "pkcs12_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.p12"
+    },
+    {
+        "hash": "622034dcd7ec9d85b95fbf6606ce194d09fe9fd6",
+        "password": "cGluZ291aW4gZG8gZmx5",
+        "ios_config_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.sswan",
+        "pkcs12_url": "https://domain.tld/68f1105c1d968a74588c6314bbafdb9d3c12517a.p12"
+    },
+    {
+        "hash": "529ec8203b53843c4dff3e0dfb32205f6eda9d97",
+        "password": "YnV0IHBlbmd1aW5zIGRvZXMgbm90IGZseQ==",
+        "ios_config_url": "https://domain.tld/529ec8203b53843c4dff3e0dfb32205f6eda9d97.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/529ec8203b53843c4dff3e0dfb32205f6eda9d97.sswan",
+        "pkcs12_url": "https://domain.tld/529ec8203b53843c4dff3e0dfb32205f6eda9d97.p12"
+    },
+    {
+        "hash": "999a399fe48fb8c3ceb58e726f7042327e9603d2",
+        "password": "bWFrZSBpdCB3b3JrIGlzIG5vdCBlbm91Z2ggOiB1bmRlcnN0YW5kIFdIWSBpdCB3b3Jr",
+        "ios_config_url": "https://domain.tld/999a399fe48fb8c3ceb58e726f7042327e9603d2.mobileconfig",
+        "strongswan_config_url": "https://domain.tld/999a399fe48fb8c3ceb58e726f7042327e9603d2.sswan",
+        "pkcs12_url": "https://domain.tld/999a399fe48fb8c3ceb58e726f7042327e9603d2.p12"
+    }
+]
