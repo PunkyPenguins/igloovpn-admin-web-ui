@@ -1,9 +1,8 @@
 <script setup>
 import { ref } from 'vue'
-import { useVPNUserStore } from '@/stores/vpn_users'
-import { storeToRefs } from 'pinia'
+import { useVpnUserStore } from '@/stores/vpn_users'
 
-const store = useVPNUserStore();
+const store = useVpnUserStore();
 let currentVpnUserIndex = ref(1);
 
 function changeNextUserPassword(value) {
